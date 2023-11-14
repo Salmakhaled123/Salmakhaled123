@@ -12,7 +12,7 @@
 </p> 
 
 - 🏢 I'm a Software Engineer 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a CS Fresh Graduate, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Dart, flutter, and android studio, or anything related to mobile development.
 
 ### Connect with Me :
